@@ -1,0 +1,5 @@
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\hangmanCMD\hangmanCMD\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\hangmanCMD\hangmanCMD\bin\Debug\hangmanCMD.exe
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\hangmanCMD\hangmanCMD\bin\Debug\hangmanCMD.pdb
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\hangmanCMD\hangmanCMD\obj\x86\Debug\hangmanCMD.exe
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\hangmanCMD\hangmanCMD\obj\x86\Debug\hangmanCMD.pdb
